@@ -88,4 +88,4 @@ git branch -d branch_name
 ```sh
 git log graph
 ```
-Визуализация всех веток
+Визуализация всех веток.
