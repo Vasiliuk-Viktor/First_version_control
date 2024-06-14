@@ -82,5 +82,10 @@ git merge + mane branch
 ```sh
 git branch -d branch_name
 ```
-Удаление ненужной ветки
+> Удаление ненужной ветки
 
+## Визуализация веток
+```sh
+git log graph
+```
+Визуализация всех веток
