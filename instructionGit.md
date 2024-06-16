@@ -89,3 +89,8 @@ git branch -d branch_name
 git log --graph
 ```
 Визуализация всех веток.S
+
+# Удаленные репозитории
+```sh
+git clone
+```
