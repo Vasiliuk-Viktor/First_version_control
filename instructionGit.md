@@ -86,6 +86,6 @@ git branch -d branch_name
 
 ## Визуализация веток
 ```sh
-git log graph
+git log --graph
 ```
-Визуализация всех веток.
+Визуализация всех веток.S
